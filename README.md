@@ -17,14 +17,6 @@ Search for any city to instantly view temperature, humidity, wind speed, and wea
 
 ---
 
-## 🖼️ Preview
-
-*(Replace with your own screenshot)*
-
-![Weather App Preview](https://via.placeholder.com/900x450?text=Weather+App+Preview)
-
----
-
 ## 🧩 Tech Stack
 
 - **Frontend:** React.js + Vite  
