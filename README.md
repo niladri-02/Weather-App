@@ -73,15 +73,33 @@ npm run dev
 Visit 👉 http://localhost:5173
 ```
 
-## 💡 Future Improvements
+## 🧠 How It Works
 
--🌙 Add Dark Mode support
+User enters a city name and clicks the Search button.
 
--🌎 Show 5-day weather forecast
+The app sends a request to the OpenWeatherMap API to fetch live data.
 
--📍 Get weather by user’s current location
+It extracts the temperature, humidity, wind speed, and weather condition icon.
 
--🕒 Add time and date support
+The weather information and matching icon are displayed dynamically.
+
+If the input is empty or invalid, a toast notification appears
+
+## 📦 Dependencies
+| Package          | Description                            |
+| ---------------- | -------------------------------------- |
+| `react`          | Frontend JavaScript library            |
+| `vite`           | Fast development server and build tool |
+| `react-icons`    | Weather and UI icons                   |
+| `react-toastify` | Toast notifications                    |
+| `tailwindcss`    | Styling and layout framework           |
+
+
+## 🧑‍💻 Author
+
+👋 Niladri Mondal
+💼 GitHub
+📧 Email
 
 ## 📜 License
 
