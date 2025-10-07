@@ -5,13 +5,6 @@ Search for any city to instantly view temperature, humidity, wind speed, and wea
 
 ---
 
-## 🌐 Live Demo
-
-🔗 [View Demo](https://your-deployment-link.netlify.app)  
-*(Replace with your actual Netlify or Vercel deployed link)*
-
----
-
 ## 🚀 Features
 
 - 🌍 Search weather by city name  
